@@ -30,7 +30,7 @@ to give relevant answers to the following questions:
 
 1. How many online customers are there in the dataset and what is their country of origin?
 
-2. What are the countries that are most represented in the dataset?
+2. What countries are most represented in the dataset?
 
 3. Calculate the revenue that was made in each month and what is the percentage revenue based on countries?
 
